@@ -22,7 +22,7 @@ fs.readFile("./www/index.html", "utf8", function(err, data) => {
 		return
 		process.exit(1)
 	}
-	console.log(data)
+	// console.log(data)
 
 
 
